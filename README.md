@@ -1,11 +1,13 @@
 # Redstone Transformers Mod
 
+Have you thought of redstone transformers when you're building redstone? Well here they are!
+
 <img src="https://raw.githubusercontent.com/JavRedstone/redstone-transformers/main/src/main/resources/assets/redstonetransformers/icon.png" alt="Logo" width="100" height="100">
 
 ## What is a redstone transformer?
 
-Transformers in real life are electrical devices that can step up or down voltage.
-Redstone transformers do the same, except with redstone. In other words, you can control the output level of redstone.
+- Transformers in real life are electrical devices that can step up or down voltage.
+- Redstone transformers do the same, except with redstone. In other words, you can control the output level of redstone.
 
 ## Item
 
