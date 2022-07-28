@@ -1,4 +1,4 @@
-# Redstone Transformers Mod (1.19+)
+# Redstone Transformers Mod
 
 <img src="https://raw.githubusercontent.com/JavRedstone/redstone-transformers/main/src/main/resources/assets/redstonetransformers/icon.png" alt="Logo" width="100" height="100">
 
