@@ -1,4 +1,4 @@
-# Redstone Transformers Mod
+# Redstone Transformers (1.19.1+)
 
 Have you thought of redstone transformers when you're building redstone? Well here they are!
 
