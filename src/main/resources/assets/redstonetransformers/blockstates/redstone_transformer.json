@@ -1,0 +1,484 @@
+{
+    "variants": {
+        "step=0,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_0step"
+        },
+        "step=1,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_1step"
+        },
+        "step=2,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_2step"
+        },
+        "step=3,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_3step"
+        },
+        "step=4,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_4step"
+        },
+        "step=5,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_5step"
+        },
+        "step=6,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_6step"
+        },
+        "step=7,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_7step"
+        },
+        "step=8,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_8step"
+        },
+        "step=9,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_9step"
+        },
+        "step=10,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_10step"
+        },
+        "step=11,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_11step"
+        },
+        "step=12,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_12step"
+        },
+        "step=13,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_13step"
+        },
+        "step=14,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_14step"
+        },
+        "step=15,facing=south,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_15step"
+        },
+        "step=0,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_0step",
+            "y": 90
+        },
+        "step=1,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_1step",
+            "y": 90
+        },
+        "step=2,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_2step",
+            "y": 90
+        },
+        "step=3,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_3step",
+            "y": 90
+        },
+        "step=4,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_4step",
+            "y": 90
+        },
+        "step=5,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_5step",
+            "y": 90
+        },
+        "step=6,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_6step",
+            "y": 90
+        },
+        "step=7,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_7step",
+            "y": 90
+        },
+        "step=8,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_8step",
+            "y": 90
+        },
+        "step=9,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_9step",
+            "y": 90
+        },
+        "step=10,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_10step",
+            "y": 90
+        },
+        "step=11,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_11step",
+            "y": 90
+        },
+        "step=12,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_12step",
+            "y": 90
+        },
+        "step=13,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_13step",
+            "y": 90
+        },
+        "step=14,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_14step",
+            "y": 90
+        },
+        "step=15,facing=west,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_15step",
+            "y": 90
+        },
+        "step=0,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_0step",
+            "y": 180
+        },
+        "step=1,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_1step",
+            "y": 180
+        },
+        "step=2,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_2step",
+            "y": 180
+        },
+        "step=3,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_3step",
+            "y": 180
+        },
+        "step=4,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_4step",
+            "y": 180
+        },
+        "step=5,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_5step",
+            "y": 180
+        },
+        "step=6,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_6step",
+            "y": 180
+        },
+        "step=7,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_7step",
+            "y": 180
+        },
+        "step=8,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_8step",
+            "y": 180
+        },
+        "step=9,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_9step",
+            "y": 180
+        },
+        "step=10,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_10step",
+            "y": 180
+        },
+        "step=11,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_11step",
+            "y": 180
+        },
+        "step=12,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_12step",
+            "y": 180
+        },
+        "step=13,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_13step",
+            "y": 180
+        },
+        "step=14,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_14step",
+            "y": 180
+        },
+        "step=15,facing=north,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_15step",
+            "y": 180
+        },
+        "step=0,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_0step",
+            "y": 270
+        },
+        "step=1,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_1step",
+            "y": 270
+        },
+        "step=2,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_2step",
+            "y": 270
+        },
+        "step=3,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_3step",
+            "y": 270
+        },
+        "step=4,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_4step",
+            "y": 270
+        },
+        "step=5,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_5step",
+            "y": 270
+        },
+        "step=6,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_6step",
+            "y": 270
+        },
+        "step=7,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_7step",
+            "y": 270
+        },
+        "step=8,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_8step",
+            "y": 270
+        },
+        "step=9,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_9step",
+            "y": 270
+        },
+        "step=10,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_10step",
+            "y": 270
+        },
+        "step=11,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_11step",
+            "y": 270
+        },
+        "step=12,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_12step",
+            "y": 270
+        },
+        "step=13,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_13step",
+            "y": 270
+        },
+        "step=14,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_14step",
+            "y": 270
+        },
+        "step=15,facing=east,powered=false": {
+            "model": "redstonetransformers:block/redstone_transformer_15step",
+            "y": 270
+        },
+        "step=0,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_0step_on"
+        },
+        "step=1,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_1step_on"
+        },
+        "step=2,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_2step_on"
+        },
+        "step=3,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_3step_on"
+        },
+        "step=4,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_4step_on"
+        },
+        "step=5,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_5step_on"
+        },
+        "step=6,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_6step_on"
+        },
+        "step=7,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_7step_on"
+        },
+        "step=8,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_8step_on"
+        },
+        "step=9,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_9step_on"
+        },
+        "step=10,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_10step_on"
+        },
+        "step=11,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_11step_on"
+        },
+        "step=12,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_12step_on"
+        },
+        "step=13,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_13step_on"
+        },
+        "step=14,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_14step_on"
+        },
+        "step=15,facing=south,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_15step_on"
+        },
+        "step=0,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_0step_on",
+            "y": 90
+        },
+        "step=1,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_1step_on",
+            "y": 90
+        },
+        "step=2,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_2step_on",
+            "y": 90
+        },
+        "step=3,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_3step_on",
+            "y": 90
+        },
+        "step=4,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_4step_on",
+            "y": 90
+        },
+        "step=5,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_5step_on",
+            "y": 90
+        },
+        "step=6,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_6step_on",
+            "y": 90
+        },
+        "step=7,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_7step_on",
+            "y": 90
+        },
+        "step=8,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_8step_on",
+            "y": 90
+        },
+        "step=9,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_9step_on",
+            "y": 90
+        },
+        "step=10,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_10step_on",
+            "y": 90
+        },
+        "step=11,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_11step_on",
+            "y": 90
+        },
+        "step=12,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_12step_on",
+            "y": 90
+        },
+        "step=13,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_13step_on",
+            "y": 90
+        },
+        "step=14,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_14step_on",
+            "y": 90
+        },
+        "step=15,facing=west,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_15step_on",
+            "y": 90
+        },
+        "step=0,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_0step_on",
+            "y": 180
+        },
+        "step=1,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_1step_on",
+            "y": 180
+        },
+        "step=2,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_2step_on",
+            "y": 180
+        },
+        "step=3,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_3step_on",
+            "y": 180
+        },
+        "step=4,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_4step_on",
+            "y": 180
+        },
+        "step=5,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_5step_on",
+            "y": 180
+        },
+        "step=6,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_6step_on",
+            "y": 180
+        },
+        "step=7,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_7step_on",
+            "y": 180
+        },
+        "step=8,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_8step_on",
+            "y": 180
+        },
+        "step=9,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_9step_on",
+            "y": 180
+        },
+        "step=10,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_10step_on",
+            "y": 180
+        },
+        "step=11,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_11step_on",
+            "y": 180
+        },
+        "step=12,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_12step_on",
+            "y": 180
+        },
+        "step=13,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_13step_on",
+            "y": 180
+        },
+        "step=14,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_14step_on",
+            "y": 180
+        },
+        "step=15,facing=north,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_15step_on",
+            "y": 180
+        },
+        "step=0,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_0step_on",
+            "y": 270
+        },
+        "step=1,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_1step_on",
+            "y": 270
+        },
+        "step=2,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_2step_on",
+            "y": 270
+        },
+        "step=3,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_3step_on",
+            "y": 270
+        },
+        "step=4,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_4step_on",
+            "y": 270
+        },
+        "step=5,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_5step_on",
+            "y": 270
+        },
+        "step=6,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_6step_on",
+            "y": 270
+        },
+        "step=7,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_7step_on",
+            "y": 270
+        },
+        "step=8,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_8step_on",
+            "y": 270
+        },
+        "step=9,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_9step_on",
+            "y": 270
+        },
+        "step=10,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_10step_on",
+            "y": 270
+        },
+        "step=11,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_11step_on",
+            "y": 270
+        },
+        "step=12,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_12step_on",
+            "y": 270
+        },
+        "step=13,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_13step_on",
+            "y": 270
+        },
+        "step=14,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_14step_on",
+            "y": 270
+        },
+        "step=15,facing=east,powered=true": {
+            "model": "redstonetransformers:block/redstone_transformer_15step_on",
+            "y": 270
+        }
+    }
+}

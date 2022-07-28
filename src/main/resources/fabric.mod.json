@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "redstonetransformers",
+  "version": "${version}",
+
+  "name": "Redstone Transformers",
+  "description": "Have you thought of redstone transformers when you're building redstone? Well here they are!",
+  "authors": [
+    "JavRedstone"
+  ],
+  "contact": {
+    "sources": "https://github.com/JavRedstone/redstone-transformers"
+  },
+
+  "license": "MIT",
+  "icon": "assets/redstonetransformers/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "javredstone.redstone.transformers.RedstoneTransformers"
+    ]
+  },
+  "mixins": [
+    "redstonetransformers.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
