@@ -1,4 +1,6 @@
-# Redstone Transformers (1.19.1+)
+# Redstone Transformers (1.19.1+) [Fabric]
+
+## [Curseforge Link](https://www.curseforge.com/minecraft/mc-mods/redstone-transformers)
 
 Have you thought of redstone transformers when you're building redstone? Well here they are!
 
